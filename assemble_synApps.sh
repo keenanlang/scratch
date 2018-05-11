@@ -88,8 +88,8 @@ fi
 
 
 # Assume user has nothing but this file, just in case that's true.
-mkdir synApps
-cd synApps
+mkdir AD-3-2
+cd AD-3-2
 
 get_support support $SUPPORT
 cd support
