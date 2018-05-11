@@ -179,6 +179,7 @@ git submodule init
 git submodule update ADCore
 git submodule update ADSupport
 git submodule update ADSimDetector
+git submodule update pvaDriver
 
 cd configure
 cp EXAMPLE_CONFIG_SITE.local CONFIG_SITE.local
